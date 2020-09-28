@@ -17,8 +17,8 @@ As you know, there's always room for improvement and you can test your skills by
 Here are some examples -
 
 - Add more buttons which are usually used in calculator
-- Do calculation when “3	+ 3 +” is pressed
-- Display history of calculation
+- Do calculation when “3	+ 3 +” is pressed [(open this issue)](https://github.com/Progate-Community/calculator-demo/issues/2)
+- Display history of calculation [(open this issue)](https://github.com/Progate-Community/calculator-demo/issues/1)
 - Use class to organize your code
 
 Feel free to add any other features you would like!
