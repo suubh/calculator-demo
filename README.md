@@ -31,6 +31,8 @@ Feel free to add any other features you would like! [(click here to create a new
 
 [Learn how to fork a repository and make a pull request.](https://guides.github.com/activities/forking/)
 
+**Note for the contributors:** To encourage everyone to try their best, we are not reviewing or merging pull requests at this time. Please feel free to send a pull request once you've made some changes in this project.
+
 # Absolute beginner?
 
 Today is a great day to start. If you are new to HTML, CSS and JavaScript - 
