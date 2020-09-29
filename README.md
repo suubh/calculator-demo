@@ -21,7 +21,7 @@ Here are some examples -
 - Display history of calculation [(open this issue)](https://github.com/Progate-Community/calculator-demo/issues/1)
 - Use class to organize your code
 
-Feel free to add any other features you would like!
+Feel free to add any other features you would like! [(click here to create a new issue)](https://github.com/Progate-Community/calculator-demo/issues/new/choose)
 
 # How to contribute?
 
